@@ -3,10 +3,11 @@ author: Rakshata Rocks
 email: wwwrakshatarocks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nowadays due to Corona and many natural calamitiies proved that Nature is Supreme than all.
-  theme:minima
+  
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: to minima
