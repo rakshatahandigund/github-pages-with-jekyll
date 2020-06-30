@@ -1,5 +1,5 @@
 ---
 title: "Quarantine Days"
-date: 30-06-2020
+date: 2020-06-30
 ---
 Hello everyone Whatsup!!!
